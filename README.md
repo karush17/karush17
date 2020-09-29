@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 📈 My Github Stats
-![Karush's github stats](https://github-readme-stats.vercel.app/api?username=karush17&hide=prs&theme=dark&show_icons=true)
+![Karush's github stats](https://github-readme-stats.vercel.app/api?username=karush17&hide=prs&theme=dark&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karush17&layout=compact&theme=dark)
 
 ### 🔫 Featured
