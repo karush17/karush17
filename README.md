@@ -1,7 +1,7 @@
 ### 👋 Hi there, welcome to my page!
 
 
-- 🔭 I’m currently working on [Deep Hierarchical Reinforcement Learning](https://arxiv.org/abs/2009.09842)
+- 🔭 I’m currently working on [Energy-based Reinforcement Learning](https://arxiv.org/abs/2009.09842)
 - 🌱 I’m currently learning [Ising Models](https://github.com/karush17/Ising-notes)
 - 📫 How to reach me: [My Webpage](https://karush17.github.io/)
 - ⚡ Fun fact: If wishes were fishes, we would all cast nets.
