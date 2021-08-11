@@ -1,10 +1,10 @@
 ### 👋 Hi there, welcome to my page!
 
 
-- 🔭 I’m currently working on [Energy-based Reinforcement Learning](https://arxiv.org/abs/2009.09842)
-- 🌱 I’m currently learning [Ising Models](https://github.com/karush17/Ising-notes)
+- 🔭 I’m currently working on Energy-based Reinforcement Learning
+- 🌱 I’m currently learning Optimization Theory
 - 📫 How to reach me: [My Webpage](https://karush17.github.io/)
-- ⚡ Fun fact: If wishes were fishes, we would all cast nets.
+- ⚡ An old adage: _"If wishes were fishes, we would all cast nets."_- Frank Herbert
 
 [![Linkedin: Karush Suri](https://img.shields.io/badge/-KarushSuri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karush-suri-65139a155/)](https://www.linkedin.com/in/karush-suri-65139a155/)
 [![GitHub karush17](https://img.shields.io/github/followers/karush17?label=follow&style=social)](https://github.com/karush17)
