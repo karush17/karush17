@@ -1,7 +1,7 @@
 ### 👋 Hi there, welcome to my page!
 
 
-- 🔭 I’m currently working on Energy-based Reinforcement Learning
+- 🔭 I’m currently working on Reinforcement Learning
 - 🌱 I’m currently learning Optimization Theory
 - 📫 How to reach me: [My Webpage](https://karush17.github.io/)
 - ⚡ An old adage: _"If wishes were fishes, we would all cast nets."_- Frank Herbert
