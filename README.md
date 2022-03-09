@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Reinforcement Learning
-- 🌱 I’m currently learning Optimization Theory
+- 🌱 I’m currently learning Implicit Representations
 - 📫 How to reach me: [My Webpage](https://karush17.github.io/)
 - ⚡ An old adage: _"If wishes were fishes, we would all cast nets."_- Frank Herbert
 
